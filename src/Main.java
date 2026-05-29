@@ -2,6 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println(" Inicio del proyecto. by Merari Izhar Botello Meza");
+        System.out.println(" Inicio del proyecto. by MERARI IZHAR BOTELLO MEZA");
     }
 }
